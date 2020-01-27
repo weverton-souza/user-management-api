@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "user.management.ibge-service-locality-url",
+      "type": "java.lang.String",
+      "description": "Description for user.management.ibge-service-locality-url."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+
+user:
+  management:
+    ibge-service-locality-url: https://servicodados.ibge.gov.br/api/v1
